@@ -38,3 +38,19 @@ body {
   width: 20px;
   margin-left: 10px;
 }
+
+@media (max-width: 1074px) {
+  .container {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .btn {
+    padding: 14px 22px;
+  }
+}
+@media (max-width: 650px) {
+  .btn {
+    padding: 8px 15px;
+    font-size: small;
+  }
+}
