@@ -1,8 +1,31 @@
-# React + Vite
+# 🎓 College Website using React JS  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Overview  
+This is a **fully responsive College/University website** built using **React JS**. It features modern UI/UX design and includes essential sections such as:  
+- Programs  
+- About  
+- Campus  
+- Testimonials  
+- Contact Form  
 
-Currently, two official plugins are available:
+The contact form is functional and sends inquiries to Gmail using the **Web3Forms API**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠 Features  
+- ✅ Responsive **header with navbar toggle**.  
+- ✅ **Modern design** for desktop and mobile views.  
+- ✅ Functional **contact form** integrated with Web3Forms API.  
+- ✅ Smooth navigation with **React Router**.  
+- ✅ Completely **responsive design**.  
+
+
+
+## 🛠 Tech Stack  
+- **React JS**  
+- **React Router**  
+- **HTML5**  
+- **CSS3**  
+
+
+
